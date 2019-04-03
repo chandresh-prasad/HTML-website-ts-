@@ -1,0 +1,51 @@
+.jumbotron{
+  text-align: center;
+  background-image: url("../t14.jpg");
+  color: #fff;
+}
+
+.img{
+  background-color: #fff;
+}
+
+.navbar-brand{
+  font-family: 'Arvo', serif;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+ul.nav, .navbar-brand{
+  font-family: 'Arvo', serif;
+}
+
+.jumbotron h1{
+  font-family: 'Arvo', serif;
+  font-size: 45px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.jumbotron p{
+  margin-bottom: 30px;
+  font-size: 20px;
+  padding: 0px 150px;
+}
+
+.btn-lg{
+  font-size: 28px;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
